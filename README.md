@@ -22,11 +22,11 @@ https://yadi.sk/d/Xe9BKAr-wKIxcA
 
 qupzilla (/usr/var/bin)  AppImage of browser
 
-browser  (/usr/var/bin)    simple browser  from qt5
+browser  (/usr/var/bin)    simple browser  from qt5               https://github.com/system1010/browser
 
-browser1  (/usr/var/bin)   simple browser from Qt5.13.0
+browser1  (/usr/var/bin)   simple browser from Qt5.13.0           https://github.com/system1010/browser
 
-panel  (/usr/var/bin)   window meneger  alt 1mouse button drag    move
+panel  (/usr/var/bin)   window meneger  alt 1mouse button drag    move      https://github.com/system1010/panel
                                         alt 3mouse button drag   resize 
                                         alt tab hotkey  
 
