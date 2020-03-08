@@ -7,3 +7,5 @@ https://yadi.sk/d/Xe9BKAr-wKIxcA
 
 
 /usr/var/bin(lib) path of alternative programs     
+
+/usr/var/lib/dpkg(status)   base of installed deds(empty now)
