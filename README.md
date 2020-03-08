@@ -33,3 +33,5 @@ panel  (/usr/var/bin)   window meneger  alt 1mouse button drag    move      http
 32 bit libraries   http://www.linuxfromscratch.org/~dj/lfs-systemd-multilib/chapter10/introduction.html next next next  linux from scratch multilib
 
 apt&wine from scratch
+
+mplayer     useful media player
