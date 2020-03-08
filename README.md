@@ -12,6 +12,6 @@ https://yadi.sk/d/Xe9BKAr-wKIxcA
 
 /etc/ld.so.conf    file for library paths (search default path for linker)
 
-/etc/inittab     def consoles    (/bin/autologin    auto inter system wizaut pass)
+/etc/inittab     def consoles    (/bin/autologin    auto inter system wizaut pass(user:root password:inter(none)))
 
 /etc/fstab  mounts
