@@ -1,6 +1,6 @@
 # yandexlfs
 
-
+https://yadi.sk/d/89ONCkJHF1yKFg
 
 
 /etc/X11/app-defaults/xinitrc    EOF   programms start with X server
