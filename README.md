@@ -22,3 +22,5 @@ panel  (/usr/local/bin)   window meneger  alt 1mouse button drag    move      ht
                                         alt tab hotkey  
                                         
 dosbox & qemu present
+
+https://yadi.sk/d/-ieZvcxlLdumyw  qtsource   (see linuxfromscratch.org)
