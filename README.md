@@ -24,3 +24,7 @@ panel  (/usr/local/bin)   window meneger  alt 1mouse button drag    move      ht
 dosbox & qemu present
 
 https://yadi.sk/d/-ieZvcxlLdumyw  qtsource   (see linuxfromscratch.org)
+
+first install qtbase x11extras (panel)
+
+qtdeclarative qtwebengine (browser)
