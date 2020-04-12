@@ -20,4 +20,5 @@ browser  (/usr/local/bin)    simple browser  from qt5               https://gith
 panel  (/usr/local/bin)   window meneger  alt 1mouse button drag    move      https://github.com/system1010/panel
                                         alt 3mouse button drag   resize 
                                         alt tab hotkey  
-
+                                        
+dosbox & qemu present
